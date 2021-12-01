@@ -103,7 +103,7 @@
     "yarn-or-npm": "^2.0.0"
   },
   "peerDependencies": {
-    "tui-calendar": "^1.13.0",
+    "tui-calendar": "^1.15.0",
     "vue": "^2.3.0"
   },
   "dllPlugin": {
